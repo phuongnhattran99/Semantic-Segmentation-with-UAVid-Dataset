@@ -18,14 +18,14 @@ Dataset is splited into three small datasets, including: 400 images in training 
 
   |    Classes   |      IoU|
   | --- | --- |
-  |  "Clutter"    |    0.58494|
-   | "Building"   |    0.94585|
-   | "Road"       |    0.73827|
-   | "StaticCar"  |    0.39415|
-   | "Tree"       |    0.72758|
-   | "Vegetation" |    0.22784|
-   | "Human"      |   0.031362|
-   | "MovingCar"  |    0.17483|
+  |  `Clutter`    |    0.58494|
+   | `Building`   |    0.94585|
+   | `"Road"`       |    0.73827|
+   | `StaticCar`  |    0.39415|
+   | `Tree`       |    0.72758|
+   | `Vegetation` |    0.22784|
+   | `Human`      |   0.031362|
+   | `MovingCar`  |    0.17483|
 
 |GlobalAccuracy |   MeanAccuracy  |  MeanIoU |   WeightedIoU  |  MeanBFScore|
 | --- | --- | --- | --- | --- |
@@ -33,12 +33,12 @@ Dataset is splited into three small datasets, including: 400 images in training 
        
 |     Classes          | Accuracy   |   IoU   |    MeanBFScore |
 | --- | --- | --- | --- |
-|Clutter     |  0.65485   |   0.56601|       0.7612 |
-| Building   |   0.94011  |    0.90466   |   0.82507|  
-|  Road       |   0.82693  |    0.66057   |   0.71666 | 
-| StaticCar |    0.75424  |    0.36839   |   0.52996  |
-| Tree      |     0.8534  |     0.7856    |   0.8415 | 
-|  Vegetation |   0.65107   |  0.50528  |   0.59838 |
-| Human        | 0.83858    | 0.044986   |   0.55343 | 
-|  MovingCar   |  0.84296     | 0.49405   |   0.51921 | 
+|`Clutter`     |  0.65485   |   0.56601|       0.7612 |
+| `Building`   |   0.94011  |    0.90466   |   0.82507|  
+|  `Road`       |   0.82693  |    0.66057   |   0.71666 | 
+| `StaticCar` |    0.75424  |    0.36839   |   0.52996  |
+| `Tree`      |     0.8534  |     0.7856    |   0.8415 | 
+|  `Vegetation` |   0.65107   |  0.50528  |   0.59838 |
+| `Human`        | 0.83858    | 0.044986   |   0.55343 | 
+|  `MovingCar`   |  0.84296     | 0.49405   |   0.51921 | 
        
