@@ -49,9 +49,10 @@ Labeled Image
 ![000000 (1)](https://user-images.githubusercontent.com/81501596/124268960-75882000-db64-11eb-8cff-04da89fff139.png)
 Prediction Image 
 ![prediction image](https://user-images.githubusercontent.com/81501596/124269194-c730aa80-db64-11eb-8136-fe3949442c2d.png)
-Compare Prediction Image with the expected ground truth Image
 
-<img src="https://user-images.githubusercontent.com/81501596/124269351-f9420c80-db64-11eb-848c-3d3843bc6e76.png" width="540" height="480">
+Compare Prediction Image with the expected ground truth Image
+![Comparision](https://user-images.githubusercontent.com/81501596/124270451-6bffb780-db66-11eb-9c58-815c27b5e0db.png)
+
 
 
 
