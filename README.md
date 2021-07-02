@@ -11,7 +11,8 @@ Dataset is splited into three small datasets, including: 400 images in training 
 # Training Progress
 ![Training Progress](https://user-images.githubusercontent.com/81501596/124266180-d6adf480-db60-11eb-903e-ff7c78db2c5e.png)
 # Result
-| | Training |Validation|
+| Training |Validation|
+| --- | --- |
 | Accuracy   | 82.34%      | 76.8557%    |
 | Loss     | 0.3238        | 0.5620      |
 
