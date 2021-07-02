@@ -20,7 +20,7 @@ Dataset is splited into three small datasets, including: 400 images in training 
   | --- | --- |
   |  `Clutter`    |    0.58494|
    | `Building`   |    0.94585|
-   | `"Road"`       |    0.73827|
+   | `Road`       |    0.73827|
    | `StaticCar`  |    0.39415|
    | `Tree`       |    0.72758|
    | `Vegetation` |    0.22784|
@@ -42,3 +42,14 @@ Dataset is splited into three small datasets, including: 400 images in training 
 | `Human`        | 0.83858    | 0.044986   |   0.55343 | 
 |  `MovingCar`   |  0.84296     | 0.49405   |   0.51921 | 
        
+# Plot Images
+Original Image
+![000000 (1)](https://user-images.githubusercontent.com/81501596/124268868-52f60700-db64-11eb-82cd-bfa084ce406b.png)
+Labeled Image
+![000000 (1)](https://user-images.githubusercontent.com/81501596/124268960-75882000-db64-11eb-8cff-04da89fff139.png)
+Prediction Image 
+![prediction image](https://user-images.githubusercontent.com/81501596/124269194-c730aa80-db64-11eb-8136-fe3949442c2d.png)
+Compare Prediction Image with the expected ground truth Image
+![Comparision](https://user-images.githubusercontent.com/81501596/124269351-f9420c80-db64-11eb-848c-3d3843bc6e76.png)
+
+
