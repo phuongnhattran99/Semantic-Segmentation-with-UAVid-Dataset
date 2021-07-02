@@ -31,7 +31,7 @@ Dataset is splited into three small datasets, including: 400 images in training 
 | --- | --- | --- | --- | --- |
 |0.82527 |         0.79527 |      0.54119 |     0.74025 |       0.66845 | 
        
-|     Classes          | Accuracy   |   IoU   |    MeanBFScore|
+|     Classes          | Accuracy   |   IoU   |    MeanBFScore |
 | --- | --- | --- | --- |
 |Clutter     |  0.65485   |   0.56601|       0.7612 |
 | Building   |   0.94011  |    0.90466   |   0.82507|  
