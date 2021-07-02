@@ -16,7 +16,7 @@ Dataset is splited into three small datasets, including: 400 images in training 
 | `Accuracy`   | 82.34%      | 76.8557%    |
 | `Loss`     | 0.3238        | 0.5620      |
 
-  |    classes   |      iou|
+  |    Classes   |      IoU|
   | --- | --- |
   |  "Clutter"    |    0.58494|
    | "Building"   |    0.94585|
@@ -31,7 +31,7 @@ Dataset is splited into three small datasets, including: 400 images in training 
 | --- | --- | --- | --- | --- |
 |0.82527 |         0.79527 |      0.54119 |     0.74025 |       0.66845 | 
        
-   |              | Accuracy   |   IoU   |    MeanBFScore|
+   |     Classes          | Accuracy   |   IoU   |    MeanBFScore|
    | --- | --- | --- | --- |
      |Clutter     |  0.65485   |   0.56601|       0.7612 |
    | Building   |   0.94011  |    0.90466   |   0.82507|  
