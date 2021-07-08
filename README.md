@@ -7,11 +7,11 @@ Dataset is splited into three small datasets, including: 400 images in training 
 
 
 # DeepLab v3+ with ResNet-18 Backbone
-<img src="https://user-images.githubusercontent.com/81501596/124265426-d9f4b080-db5f-11eb-9383-ab3981edcc31.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124912765-87603c00-e018-11eb-9d05-4211224367e8.png" width="750" height="375">
 
 
 # Training Progress
-<img src="https://user-images.githubusercontent.com/81501596/124265426-d9f4b080-db5f-11eb-9383-ab3981edcc31.png" width="750" height="375">
+<img src="https://user-images.githubusercontent.com/81501596/124912808-947d2b00-e018-11eb-89f6-a4cb115409b1.png" width="750" height="375">
 
 
 # Result
@@ -48,15 +48,19 @@ Dataset is splited into three small datasets, including: 400 images in training 
        
 # Plot Images
 Original Image
+
 <img src="https://user-images.githubusercontent.com/81501596/124268868-52f60700-db64-11eb-82cd-bfa084ce406b.png" width="750" height="375">
 
 Labeled Image
+
 <img src="https://user-images.githubusercontent.com/81501596/124268960-75882000-db64-11eb-8cff-04da89fff139.png" width="750" height="375">
 
 Prediction Image 
+
 <img src="https://user-images.githubusercontent.com/81501596/124269194-c730aa80-db64-11eb-8136-fe3949442c2d.png" width="750" height="375">
 
 Compare Prediction Image with the expected ground truth Image
+
 <img src="https://user-images.githubusercontent.com/81501596/124270451-6bffb780-db66-11eb-9c58-815c27b5e0db.png" width="750" height="375">
 
 
