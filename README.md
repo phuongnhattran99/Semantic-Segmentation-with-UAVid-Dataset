@@ -55,11 +55,11 @@ Labeled Image
 
 <img src="https://user-images.githubusercontent.com/81501596/124268960-75882000-db64-11eb-8cff-04da89fff139.png" width="750" height="375">
 
-Prediction Image 
+Predicted Image 
 
 <img src="https://user-images.githubusercontent.com/81501596/124269194-c730aa80-db64-11eb-8136-fe3949442c2d.png" width="750" height="375">
 
-Compare Prediction Image with the expected ground truth Image
+Compare Predicted Image with the expected ground truth Image (The green and purple regions highlight areas where the segmentation results differ from the expected ground truth)
 
 <img src="https://user-images.githubusercontent.com/81501596/124270451-6bffb780-db66-11eb-9c58-815c27b5e0db.png" width="750" height="375">
 
