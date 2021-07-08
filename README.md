@@ -15,8 +15,8 @@ Dataset is splited into three small datasets, including: 400 images in training 
 
 
 # Result
-| Training |Validation|
-| :---: | :---: |
+|        | Training |Validation|
+| :---: | :---: |:---: |
 | `Accuracy`   | 82.34%      | 76.8557%    |
 | `Loss`     | 0.3238        | 0.5620      |
 
